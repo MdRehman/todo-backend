@@ -1,4 +1,4 @@
-package com.in28mintutes.webservices.todo.basic;
+package com.in28mintutes.webservices.basic;
 
 public class AuthenticationBean {
 	private String message;

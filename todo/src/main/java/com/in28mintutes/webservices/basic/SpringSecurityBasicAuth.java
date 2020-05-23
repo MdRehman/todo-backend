@@ -1,4 +1,4 @@
-package com.in28mintutes.webservices.todo.basic;
+package com.in28mintutes.webservices.basic;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

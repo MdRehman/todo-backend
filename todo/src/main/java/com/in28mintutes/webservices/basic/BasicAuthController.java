@@ -1,4 +1,4 @@
-package com.in28mintutes.webservices.todo.basic;
+package com.in28mintutes.webservices.basic;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
